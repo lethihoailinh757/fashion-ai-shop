@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Thanh toán - FashionAI</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="container nav">
+    <a class="logo" href="./index.html">Fashion<span>AI</span></a>
+    <nav class="navlinks">
+      <a href="./index.html">Sản phẩm</a>
+      <a href="./admin.html">Admin</a>
+    </nav>
+    <div class="spacer"></div>
+    <button class="btn secondary" id="cartBtn">🛒 Giỏ <span id="cartCount">0</span></button>
+  </div>
+</header>
+
+<section class="container checkout-hero">
+  <div class="checkout-banner">
+    <div>
+      <span class="badge">🛍️ Thanh toán an toàn</span>
+      <h1>Hoàn tất đơn hàng chỉ trong vài bước</h1>
+      <p>Thông tin khách hàng được lưu trong trình duyệt để lần sau tự điền. Admin sẽ nhận đơn và xử lý theo quy trình.</p>
+    </div>
+    <div class="steps">
+      <span class="step">1. Đặt hàng</span>
+      <span class="step">2. Xác nhận</span>
+      <span class="step">3. Giao hàng</span>
+      <span class="step">4. Hoàn thành</span>
+    </div>
+  </div>
+</section>
+
+<main class="container checkout-grid">
+  <form class="card" id="checkoutForm">
+    <div class="form-section-title">
+      <div class="circle-icon">👤</div>
+      <div>
+        <h2>Thông tin người nhận</h2>
+        <p class="muted" style="margin:4px 0 0">Nếu đã từng mua, thông tin profile sẽ tự điền.</p>
+      </div>
+    </div>
+
+    <div class="form-grid">
+      <label class="field">Họ tên
+        <input class="input" id="fullName" placeholder="Ví dụ: Nguyễn Huy Phương" required>
+      </label>
+      <label class="field">Số điện thoại
+        <input class="input" id="phone" placeholder="Ví dụ: 098xxxxxxx" required>
+      </label>
+      <label class="field">Email
+        <input class="input" id="email" type="email" placeholder="email@example.com">
+      </label>
+      <label class="field">Size thường mặc
+        <input class="input" id="size" placeholder="Ví dụ: M, L, XL">
+      </label>
+    </div>
+
+    <label class="field" style="margin-top:14px">Địa chỉ nhận hàng
+      <textarea class="input" id="address" rows="3" placeholder="Số nhà, đường, phường/xã, quận/huyện, tỉnh/thành" required></textarea>
+    </label>
+
+    <div class="checkout-note">💡 AI có thể tư vấn size và cách phối đồ trước khi bạn đặt hàng.</div>
+
+    <div class="form-section-title" style="margin-top:20px">
+      <div class="circle-icon">🚚</div>
+      <div><h2>Thanh toán & giao hàng</h2></div>
+    </div>
+
+    <div class="form-grid">
+      <label class="field">Phương thức thanh toán
+        <select id="paymentMethod">
+          <option>COD</option>
+          <option>Chuyển khoản ngân hàng</option>
+          <option>Ví điện tử</option>
+        </select>
+      </label>
+      <label class="field">Phương thức giao hàng
+        <select id="shippingMethod">
+          <option>Giao hàng tiêu chuẩn</option>
+          <option>Giao nhanh</option>
+          <option>Nhận tại cửa hàng</option>
+        </select>
+      </label>
+    </div>
+
+    <label class="field" style="margin-top:14px">Ghi chú cho shop
+      <textarea class="input" id="note" rows="3" placeholder="Ví dụ: Gọi trước khi giao, cần đổi size nếu không vừa..."></textarea>
+    </label>
+
+    <button class="btn" style="width:100%;margin-top:18px;font-size:16px">Đặt hàng ngay</button>
+  </form>
+
+  <aside class="card summary-card">
+    <div class="summary-title">
+      <h2>Đơn hàng</h2>
+      <span class="badge">FashionAI</span>
+    </div>
+    <div id="cartItems"></div>
+    <div class="summary-line"><span>Tạm tính</span><b id="subtotal">0đ</b></div>
+    <div class="summary-line"><span>Phí ship</span><b id="shipping">0đ</b></div>
+    <div class="summary-line"><span>Giảm giá</span><b id="discount">0đ</b></div>
+    <div class="summary-total"><span>Tổng thanh toán</span><span id="total">0đ</span></div>
+    <div class="trust-list">
+      <div class="trust-item">✅ <span><b>Miễn phí ship</b> cho đơn từ 800.000đ</span></div>
+      <div class="trust-item">🔁 <span><b>Đổi size</b> trong 7 ngày nếu sản phẩm chưa qua sử dụng</span></div>
+      <div class="trust-item">🤖 <span><b>AI tư vấn</b> size, chất liệu, phối đồ và cách mua online</span></div>
+    </div>
+  </aside>
+</main>
+
+<div id="cartDrawer" class="drawer"><aside class="panel"><button class="btn secondary" id="closeCart">Đóng</button><h2>Giỏ hàng</h2><div id="cartItemsDrawer"></div></aside></div>
+<div id="aiModal" class="modal"><div class="chat-panel"><div class="chat-head"><span id="aiTitle">💖 AI tư vấn sản phẩm</span><button id="closeAI" style="float:right;background:transparent;border:0;color:#fff;font-size:20px">×</button></div><div class="chat-log" id="chatLog"></div><form class="chat-form" id="chatForm"><input class="input" id="chatInput" placeholder="Hỏi về cách mua hàng online..."><button class="btn">Gửi</button></form></div></div>
+<button class="floating-ai" id="aiBtn">🤖<small>Hỏi AI</small></button>
+<script src="./app.js"></script>
+</body>
+</html>

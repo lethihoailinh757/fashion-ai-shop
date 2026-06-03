@@ -1,0 +1,5904 @@
+[
+  {
+    "id": "SP001",
+    "name": "Áo thun Cloudy Premium 001",
+    "brand": "Cloudy",
+    "category": "Áo thun",
+    "gender": "Nam",
+    "price": 553000,
+    "oldPrice": 712000,
+    "stock": 26,
+    "rating": 4.9,
+    "sold": 909,
+    "material": "cotton 100%",
+    "fit": "regular fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "S",
+      "M",
+      "Freesize",
+      "L"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Đen",
+      "Trắng",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion1/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "unisex",
+      "dễ phối",
+      "streetwear"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo thun Cloudy Premium 001 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form relaxed fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 582000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 590000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 578000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP002",
+    "name": "Áo sơ mi LumiStyle Daily 002",
+    "brand": "LumiStyle",
+    "category": "Áo sơ mi",
+    "gender": "Unisex",
+    "price": 464000,
+    "oldPrice": 587000,
+    "stock": 60,
+    "rating": 4.5,
+    "sold": 2273,
+    "material": "cotton compact",
+    "fit": "form suông",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "Freesize",
+      "L"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Xanh rêu",
+      "Xám",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion2/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "công sở",
+      "du lịch",
+      "basic",
+      "mùa hè"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "màu sắc trẻ trung",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Áo sơ mi LumiStyle Daily 002 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form croptop, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 539000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 447000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 523000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP003",
+    "name": "Áo khoác Minimal VN Smart 003",
+    "brand": "Minimal VN",
+    "category": "Áo khoác",
+    "gender": "Unisex",
+    "price": 223000,
+    "oldPrice": 256000,
+    "stock": 137,
+    "rating": 4.5,
+    "sold": 347,
+    "material": "lụa satin",
+    "fit": "slim fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "XL",
+      "Freesize",
+      "S"
+    ],
+    "colors": [
+      "Trắng",
+      "Nâu",
+      "Xanh rêu",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion3/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "basic",
+      "mùa hè",
+      "mùa đông",
+      "cao cấp"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Áo khoác Minimal VN Smart 003 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form croptop, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 248000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 250000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 214000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP004",
+    "name": "Quần jeans UrbanWear Young 004",
+    "brand": "UrbanWear",
+    "category": "Quần jeans",
+    "gender": "Nữ",
+    "price": 512000,
+    "oldPrice": 595000,
+    "stock": 45,
+    "rating": 4.8,
+    "sold": 1659,
+    "material": "nỉ cotton",
+    "fit": "basic fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Kem",
+      "Nâu",
+      "Be",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion4/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "dễ phối",
+      "mùa hè",
+      "mùa đông",
+      "du lịch"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Quần jeans UrbanWear Young 004 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form oversize, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 543000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 488000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 618000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP005",
+    "name": "Quần kaki HanoFit Classic 005",
+    "brand": "HanoFit",
+    "category": "Quần kaki",
+    "gender": "Nam",
+    "price": 386000,
+    "oldPrice": 498000,
+    "stock": 84,
+    "rating": 4.2,
+    "sold": 1746,
+    "material": "lụa satin",
+    "fit": "form suông",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "M",
+      "XXL",
+      "S",
+      "Freesize"
+    ],
+    "colors": [
+      "Kem",
+      "Hồng pastel",
+      "Đỏ đô",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion5/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "streetwear",
+      "cao cấp",
+      "mùa đông",
+      "du lịch"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Quần kaki HanoFit Classic 005 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form relaxed fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 402000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 439000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 375000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP006",
+    "name": "Váy LumiStyle Basic 006",
+    "brand": "LumiStyle",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 764000,
+    "oldPrice": 866000,
+    "stock": 105,
+    "rating": 4.7,
+    "sold": 318,
+    "material": "denim co giãn",
+    "fit": "form suông",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "Freesize",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Xám",
+      "Xanh rêu",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion6/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "cao cấp",
+      "dễ phối",
+      "du lịch",
+      "unisex"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn"
+    ],
+    "description": "Váy LumiStyle Basic 006 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form croptop, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 794000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 745000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 718000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP007",
+    "name": "Đầm Minimal VN Premium 007",
+    "brand": "Minimal VN",
+    "category": "Đầm",
+    "gender": "Nữ",
+    "price": 857000,
+    "oldPrice": 995000,
+    "stock": 49,
+    "rating": 4.8,
+    "sold": 140,
+    "material": "polyester chống nhăn",
+    "fit": "croptop",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "L",
+      "XXL",
+      "Freesize",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Kem",
+      "Xám",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion7/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "du lịch",
+      "dễ phối",
+      "unisex",
+      "cao cấp"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Đầm Minimal VN Premium 007 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form slim fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 894000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 1001000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 952000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP008",
+    "name": "Set đồ UrbanWear Daily 008",
+    "brand": "UrbanWear",
+    "category": "Set đồ",
+    "gender": "Nam",
+    "price": 435000,
+    "oldPrice": 540000,
+    "stock": 101,
+    "rating": 5.0,
+    "sold": 1523,
+    "material": "cotton compact",
+    "fit": "oversize",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "XL",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Xanh rêu",
+      "Đen",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion8/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "streetwear",
+      "dễ phối",
+      "du lịch",
+      "mùa đông"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "đường may chắc chắn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Set đồ UrbanWear Daily 008 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form relaxed fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 467000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 472000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 451000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP009",
+    "name": "Hoodie Cloudy Smart 009",
+    "brand": "Cloudy",
+    "category": "Hoodie",
+    "gender": "Nam",
+    "price": 888000,
+    "oldPrice": 1085000,
+    "stock": 55,
+    "rating": 5.0,
+    "sold": 142,
+    "material": "kaki mềm",
+    "fit": "form suông",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "M",
+      "XXL",
+      "XL",
+      "L",
+      "Freesize"
+    ],
+    "colors": [
+      "Be",
+      "Kem",
+      "Đỏ đô",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion9/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "streetwear",
+      "công sở",
+      "du lịch",
+      "dễ phối"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Hoodie Cloudy Smart 009 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form oversize, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 987000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 1036000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 1056000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP010",
+    "name": "Phụ kiện StreetBee Young 010",
+    "brand": "StreetBee",
+    "category": "Phụ kiện",
+    "gender": "Unisex",
+    "price": 482000,
+    "oldPrice": 572000,
+    "stock": 102,
+    "rating": 4.9,
+    "sold": 2146,
+    "material": "nỉ cotton",
+    "fit": "basic fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XXL",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Be",
+      "Đen",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion10/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "công sở",
+      "dễ phối",
+      "du lịch",
+      "mùa hè"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Phụ kiện StreetBee Young 010 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form slim fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 537000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 468000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 609000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP011",
+    "name": "Áo thun NavyFox Classic 011",
+    "brand": "NavyFox",
+    "category": "Áo thun",
+    "gender": "Nam",
+    "price": 722000,
+    "oldPrice": 819000,
+    "stock": 127,
+    "rating": 4.6,
+    "sold": 289,
+    "material": "linen thoáng mát",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XXL",
+      "Freesize",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Kem",
+      "Đỏ đô",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion11/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "dễ phối",
+      "mùa hè",
+      "cao cấp",
+      "streetwear"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo thun NavyFox Classic 011 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 775000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 685000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 678000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP012",
+    "name": "Áo sơ mi NavyFox Basic 012",
+    "brand": "NavyFox",
+    "category": "Áo sơ mi",
+    "gender": "Nữ",
+    "price": 223000,
+    "oldPrice": 288000,
+    "stock": 43,
+    "rating": 4.9,
+    "sold": 662,
+    "material": "lụa satin",
+    "fit": "oversize",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "XL",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Xanh rêu",
+      "Be",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion12/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "công sở",
+      "unisex",
+      "mùa hè",
+      "du lịch"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo sơ mi NavyFox Basic 012 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form slim fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 249000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 221000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 227000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP013",
+    "name": "Áo khoác Cloudy Premium 013",
+    "brand": "Cloudy",
+    "category": "Áo khoác",
+    "gender": "Nam",
+    "price": 495000,
+    "oldPrice": 625000,
+    "stock": 87,
+    "rating": 4.6,
+    "sold": 293,
+    "material": "cotton compact",
+    "fit": "basic fit",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "S",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Đen",
+      "Be",
+      "Nâu",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion13/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "unisex",
+      "mùa hè",
+      "du lịch",
+      "streetwear"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Áo khoác Cloudy Premium 013 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form croptop, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 554000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 467000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 511000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP014",
+    "name": "Quần jeans LumiStyle Daily 014",
+    "brand": "LumiStyle",
+    "category": "Quần jeans",
+    "gender": "Nữ",
+    "price": 207000,
+    "oldPrice": 274000,
+    "stock": 16,
+    "rating": 4.7,
+    "sold": 1097,
+    "material": "cotton compact",
+    "fit": "form suông",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "L",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Đen",
+      "Xám",
+      "Hồng pastel",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion14/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "công sở",
+      "basic",
+      "mùa hè",
+      "mùa đông"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Quần jeans LumiStyle Daily 014 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form regular fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 222000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 239000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 208000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP015",
+    "name": "Quần kaki StreetBee Smart 015",
+    "brand": "StreetBee",
+    "category": "Quần kaki",
+    "gender": "Nữ",
+    "price": 792000,
+    "oldPrice": 949000,
+    "stock": 57,
+    "rating": 4.4,
+    "sold": 104,
+    "material": "polyester chống nhăn",
+    "fit": "regular fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "Freesize",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Kem",
+      "Xanh rêu",
+      "Xanh navy",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion15/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "unisex",
+      "cao cấp",
+      "mùa hè",
+      "du lịch"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần kaki StreetBee Smart 015 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form slim fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 931000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 799000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 871000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP016",
+    "name": "Váy HanoFit Young 016",
+    "brand": "HanoFit",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 504000,
+    "oldPrice": 693000,
+    "stock": 77,
+    "rating": 4.5,
+    "sold": 256,
+    "material": "cotton compact",
+    "fit": "croptop",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "Freesize",
+      "L",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Đen",
+      "Xanh rêu",
+      "Be",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion16/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "cao cấp",
+      "basic",
+      "công sở",
+      "unisex"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Váy HanoFit Young 016 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 600000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 475000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 579000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP017",
+    "name": "Đầm StreetBee Classic 017",
+    "brand": "StreetBee",
+    "category": "Đầm",
+    "gender": "Nữ",
+    "price": 336000,
+    "oldPrice": 376000,
+    "stock": 63,
+    "rating": 4.4,
+    "sold": 50,
+    "material": "cotton compact",
+    "fit": "slim fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Đen",
+      "Nâu",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion17/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "streetwear",
+      "công sở",
+      "mùa đông",
+      "unisex"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "màu sắc trẻ trung",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Đầm StreetBee Classic 017 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form croptop, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 372000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 354000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 369000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP018",
+    "name": "Set đồ HanoFit Basic 018",
+    "brand": "HanoFit",
+    "category": "Set đồ",
+    "gender": "Nữ",
+    "price": 890000,
+    "oldPrice": 1139000,
+    "stock": 143,
+    "rating": 4.7,
+    "sold": 2100,
+    "material": "kaki mềm",
+    "fit": "form suông",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "S",
+      "XXL",
+      "M",
+      "Freesize",
+      "L"
+    ],
+    "colors": [
+      "Đen",
+      "Be",
+      "Xám",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion18/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "cao cấp",
+      "basic",
+      "mùa đông",
+      "dễ phối"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "màu sắc trẻ trung",
+      "đường may chắc chắn"
+    ],
+    "description": "Set đồ HanoFit Basic 018 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form slim fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 948000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 1012000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 1055000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP019",
+    "name": "Hoodie NavyFox Premium 019",
+    "brand": "NavyFox",
+    "category": "Hoodie",
+    "gender": "Nam",
+    "price": 664000,
+    "oldPrice": 898000,
+    "stock": 133,
+    "rating": 4.4,
+    "sold": 334,
+    "material": "polyester chống nhăn",
+    "fit": "oversize",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Trắng",
+      "Xanh rêu",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion19/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "basic",
+      "du lịch",
+      "dễ phối",
+      "mùa hè"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "dễ phối với nhiều outfit",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Hoodie NavyFox Premium 019 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form form suông, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 701000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 707000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 795000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP020",
+    "name": "Phụ kiện HanoFit Daily 020",
+    "brand": "HanoFit",
+    "category": "Phụ kiện",
+    "gender": "Nam",
+    "price": 642000,
+    "oldPrice": 729000,
+    "stock": 137,
+    "rating": 4.4,
+    "sold": 2145,
+    "material": "polyester chống nhăn",
+    "fit": "relaxed fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "S",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Trắng",
+      "Xanh rêu",
+      "Đen",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion20/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "streetwear",
+      "cao cấp",
+      "công sở",
+      "du lịch"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Phụ kiện HanoFit Daily 020 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form oversize, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 698000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 707000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 755000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP021",
+    "name": "Áo thun Minimal VN Smart 021",
+    "brand": "Minimal VN",
+    "category": "Áo thun",
+    "gender": "Nữ",
+    "price": 284000,
+    "oldPrice": 362000,
+    "stock": 105,
+    "rating": 4.4,
+    "sold": 2021,
+    "material": "nỉ cotton",
+    "fit": "regular fit",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "XL",
+      "Freesize",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu",
+      "Be",
+      "Hồng pastel",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion21/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "mùa đông",
+      "streetwear",
+      "unisex",
+      "công sở"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "dễ phối với nhiều outfit",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Áo thun Minimal VN Smart 021 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 327000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 286000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 268000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP022",
+    "name": "Áo sơ mi UrbanWear Young 022",
+    "brand": "UrbanWear",
+    "category": "Áo sơ mi",
+    "gender": "Unisex",
+    "price": 445000,
+    "oldPrice": 527000,
+    "stock": 31,
+    "rating": 4.5,
+    "sold": 1783,
+    "material": "polyester chống nhăn",
+    "fit": "basic fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "S",
+      "Freesize",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Be",
+      "Xanh navy",
+      "Nâu",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion22/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "mùa đông",
+      "du lịch",
+      "unisex",
+      "công sở"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "phù hợp nhiều dáng người",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Áo sơ mi UrbanWear Young 022 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form form suông, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 468000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 459000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 555000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP023",
+    "name": "Áo khoác StreetBee Classic 023",
+    "brand": "StreetBee",
+    "category": "Áo khoác",
+    "gender": "Unisex",
+    "price": 231000,
+    "oldPrice": 261000,
+    "stock": 85,
+    "rating": 4.6,
+    "sold": 2283,
+    "material": "kaki mềm",
+    "fit": "oversize",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "L",
+      "Freesize",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Nâu",
+      "Hồng pastel",
+      "Xanh navy",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion23/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "dễ phối",
+      "unisex",
+      "basic",
+      "streetwear"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Áo khoác StreetBee Classic 023 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form form suông, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 270000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 242000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 277000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP024",
+    "name": "Quần jeans StreetBee Basic 024",
+    "brand": "StreetBee",
+    "category": "Quần jeans",
+    "gender": "Nữ",
+    "price": 489000,
+    "oldPrice": 674000,
+    "stock": 35,
+    "rating": 4.3,
+    "sold": 2306,
+    "material": "cotton compact",
+    "fit": "slim fit",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "L",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Đỏ đô",
+      "Kem",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion24/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "du lịch",
+      "unisex",
+      "công sở",
+      "cao cấp"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Quần jeans StreetBee Basic 024 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form form suông, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 548000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 476000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 477000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP025",
+    "name": "Quần kaki HanoFit Premium 025",
+    "brand": "HanoFit",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 664000,
+    "oldPrice": 835000,
+    "stock": 75,
+    "rating": 4.5,
+    "sold": 1856,
+    "material": "nỉ cotton",
+    "fit": "slim fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Xanh rêu",
+      "Đen",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion25/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "dễ phối",
+      "cao cấp",
+      "du lịch",
+      "streetwear"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần kaki HanoFit Premium 025 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form oversize, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 785000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 759000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 622000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP026",
+    "name": "Váy LumiStyle Daily 026",
+    "brand": "LumiStyle",
+    "category": "Váy",
+    "gender": "Unisex",
+    "price": 866000,
+    "oldPrice": 1115000,
+    "stock": 22,
+    "rating": 4.2,
+    "sold": 544,
+    "material": "denim co giãn",
+    "fit": "form suông",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "Freesize",
+      "L",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Kem",
+      "Hồng pastel",
+      "Trắng",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion26/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa hè",
+      "du lịch",
+      "cao cấp",
+      "công sở"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "màu sắc trẻ trung",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Váy LumiStyle Daily 026 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form form suông, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 1019000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 909000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 970000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP027",
+    "name": "Đầm NavyFox Smart 027",
+    "brand": "NavyFox",
+    "category": "Đầm",
+    "gender": "Nữ",
+    "price": 472000,
+    "oldPrice": 607000,
+    "stock": 75,
+    "rating": 4.2,
+    "sold": 1716,
+    "material": "polyester chống nhăn",
+    "fit": "regular fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "XL",
+      "Freesize",
+      "S"
+    ],
+    "colors": [
+      "Nâu",
+      "Xanh navy",
+      "Hồng pastel",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion27/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "cao cấp",
+      "basic",
+      "mùa đông",
+      "công sở"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Đầm NavyFox Smart 027 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form oversize, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 565000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 497000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 469000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP028",
+    "name": "Set đồ Minimal VN Young 028",
+    "brand": "Minimal VN",
+    "category": "Set đồ",
+    "gender": "Unisex",
+    "price": 665000,
+    "oldPrice": 756000,
+    "stock": 61,
+    "rating": 4.4,
+    "sold": 937,
+    "material": "polyester chống nhăn",
+    "fit": "basic fit",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "XXL",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Xanh rêu",
+      "Hồng pastel",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion28/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "công sở",
+      "unisex",
+      "basic",
+      "streetwear"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung",
+      "đường may chắc chắn"
+    ],
+    "description": "Set đồ Minimal VN Young 028 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 750000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 657000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 802000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP029",
+    "name": "Hoodie UrbanWear Classic 029",
+    "brand": "UrbanWear",
+    "category": "Hoodie",
+    "gender": "Nam",
+    "price": 551000,
+    "oldPrice": 681000,
+    "stock": 32,
+    "rating": 4.9,
+    "sold": 1378,
+    "material": "denim co giãn",
+    "fit": "oversize",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "Freesize",
+      "XL",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Xám",
+      "Đỏ đô",
+      "Xanh rêu",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion29/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "basic",
+      "streetwear",
+      "công sở",
+      "dễ phối"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "phù hợp nhiều dáng người",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Hoodie UrbanWear Classic 029 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form relaxed fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 643000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 559000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 520000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP030",
+    "name": "Phụ kiện Minimal VN Basic 030",
+    "brand": "Minimal VN",
+    "category": "Phụ kiện",
+    "gender": "Nữ",
+    "price": 238000,
+    "oldPrice": 269000,
+    "stock": 61,
+    "rating": 4.5,
+    "sold": 1973,
+    "material": "cotton 100%",
+    "fit": "croptop",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "Freesize",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Đen",
+      "Xanh rêu",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion30/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa hè",
+      "du lịch",
+      "mùa đông",
+      "basic"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Phụ kiện Minimal VN Basic 030 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form slim fit, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 267000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 245000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 301000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP031",
+    "name": "Áo thun UrbanWear Premium 031",
+    "brand": "UrbanWear",
+    "category": "Áo thun",
+    "gender": "Nữ",
+    "price": 882000,
+    "oldPrice": 1145000,
+    "stock": 28,
+    "rating": 4.2,
+    "sold": 987,
+    "material": "cotton compact",
+    "fit": "relaxed fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XL",
+      "L",
+      "Freesize",
+      "M"
+    ],
+    "colors": [
+      "Be",
+      "Xanh rêu",
+      "Đỏ đô",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion31/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "công sở",
+      "du lịch",
+      "dễ phối",
+      "unisex"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "dễ phối với nhiều outfit",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo thun UrbanWear Premium 031 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form form suông, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 1064000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 892000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 1048000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP032",
+    "name": "Áo sơ mi ModaPlus Daily 032",
+    "brand": "ModaPlus",
+    "category": "Áo sơ mi",
+    "gender": "Nam",
+    "price": 402000,
+    "oldPrice": 492000,
+    "stock": 53,
+    "rating": 5.0,
+    "sold": 460,
+    "material": "cotton compact",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "M",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Đỏ đô",
+      "Be",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion32/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "unisex",
+      "cao cấp",
+      "mùa hè",
+      "mùa đông"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo sơ mi ModaPlus Daily 032 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form basic fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 465000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 424000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 449000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP033",
+    "name": "Áo khoác Minimal VN Smart 033",
+    "brand": "Minimal VN",
+    "category": "Áo khoác",
+    "gender": "Nữ",
+    "price": 729000,
+    "oldPrice": 867000,
+    "stock": 59,
+    "rating": 4.4,
+    "sold": 658,
+    "material": "polyester chống nhăn",
+    "fit": "form suông",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "S",
+      "XL",
+      "L",
+      "Freesize"
+    ],
+    "colors": [
+      "Kem",
+      "Đỏ đô",
+      "Xanh navy",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion33/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "cao cấp",
+      "basic",
+      "dễ phối",
+      "unisex"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Áo khoác Minimal VN Smart 033 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 791000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 730000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 784000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP034",
+    "name": "Quần jeans StreetBee Young 034",
+    "brand": "StreetBee",
+    "category": "Quần jeans",
+    "gender": "Nam",
+    "price": 200000,
+    "oldPrice": 233000,
+    "stock": 107,
+    "rating": 4.6,
+    "sold": 758,
+    "material": "linen thoáng mát",
+    "fit": "form suông",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "S",
+      "Freesize",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Xám",
+      "Đỏ đô",
+      "Be",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion34/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "mùa hè",
+      "basic",
+      "dễ phối",
+      "mùa đông"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Quần jeans StreetBee Young 034 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form relaxed fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 243000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 215000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 254000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP035",
+    "name": "Quần kaki Cloudy Classic 035",
+    "brand": "Cloudy",
+    "category": "Quần kaki",
+    "gender": "Nam",
+    "price": 784000,
+    "oldPrice": 941000,
+    "stock": 28,
+    "rating": 4.5,
+    "sold": 1649,
+    "material": "kaki mềm",
+    "fit": "croptop",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "Freesize",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Nâu",
+      "Hồng pastel",
+      "Đỏ đô",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion35/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "unisex",
+      "basic",
+      "công sở",
+      "mùa đông"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Quần kaki Cloudy Classic 035 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 844000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 886000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 877000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP036",
+    "name": "Váy StreetBee Basic 036",
+    "brand": "StreetBee",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 894000,
+    "oldPrice": 1095000,
+    "stock": 41,
+    "rating": 4.9,
+    "sold": 1693,
+    "material": "lụa satin",
+    "fit": "relaxed fit",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "S",
+      "Freesize",
+      "M"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Trắng",
+      "Xám",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion36/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "công sở",
+      "dễ phối",
+      "cao cấp",
+      "unisex"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Váy StreetBee Basic 036 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form regular fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 1081000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 933000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 860000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP037",
+    "name": "Đầm NavyFox Premium 037",
+    "brand": "NavyFox",
+    "category": "Đầm",
+    "gender": "Nam",
+    "price": 457000,
+    "oldPrice": 526000,
+    "stock": 25,
+    "rating": 4.7,
+    "sold": 1618,
+    "material": "cotton compact",
+    "fit": "croptop",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "M",
+      "Freesize",
+      "XL",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Be",
+      "Xanh navy",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion37/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "dễ phối",
+      "công sở",
+      "du lịch",
+      "cao cấp"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Đầm NavyFox Premium 037 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form regular fit, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 552000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 536000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 499000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP038",
+    "name": "Set đồ UrbanWear Daily 038",
+    "brand": "UrbanWear",
+    "category": "Set đồ",
+    "gender": "Unisex",
+    "price": 480000,
+    "oldPrice": 552000,
+    "stock": 90,
+    "rating": 4.7,
+    "sold": 1292,
+    "material": "denim co giãn",
+    "fit": "relaxed fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S",
+      "Freesize"
+    ],
+    "colors": [
+      "Đen",
+      "Xanh rêu",
+      "Kem",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion38/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "cao cấp",
+      "công sở",
+      "unisex",
+      "du lịch"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "vải mềm, ít nhăn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Set đồ UrbanWear Daily 038 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form slim fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 550000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 514000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 552000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP039",
+    "name": "Hoodie Cloudy Smart 039",
+    "brand": "Cloudy",
+    "category": "Hoodie",
+    "gender": "Nam",
+    "price": 601000,
+    "oldPrice": 751000,
+    "stock": 92,
+    "rating": 4.8,
+    "sold": 2125,
+    "material": "cotton compact",
+    "fit": "regular fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "Freesize",
+      "M",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Trắng",
+      "Xanh navy",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion39/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "mùa hè",
+      "công sở",
+      "mùa đông",
+      "unisex"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Hoodie Cloudy Smart 039 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form oversize, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 696000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 570000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 572000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP040",
+    "name": "Phụ kiện Minimal VN Young 040",
+    "brand": "Minimal VN",
+    "category": "Phụ kiện",
+    "gender": "Nữ",
+    "price": 296000,
+    "oldPrice": 351000,
+    "stock": 141,
+    "rating": 4.4,
+    "sold": 1554,
+    "material": "cotton 100%",
+    "fit": "oversize",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "M",
+      "L",
+      "XXL",
+      "Freesize"
+    ],
+    "colors": [
+      "Be",
+      "Nâu",
+      "Trắng",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion40/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "unisex",
+      "du lịch"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Phụ kiện Minimal VN Young 040 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form slim fit, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 359000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 312000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 336000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP041",
+    "name": "Áo thun ModaPlus Classic 041",
+    "brand": "ModaPlus",
+    "category": "Áo thun",
+    "gender": "Unisex",
+    "price": 529000,
+    "oldPrice": 628000,
+    "stock": 32,
+    "rating": 4.6,
+    "sold": 753,
+    "material": "cotton 100%",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "L",
+      "XXL",
+      "Freesize",
+      "XL"
+    ],
+    "colors": [
+      "Đen",
+      "Đỏ đô",
+      "Xanh navy",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion41/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "unisex",
+      "dễ phối",
+      "mùa hè",
+      "công sở"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Áo thun ModaPlus Classic 041 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form form suông, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 644000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 570000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 552000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP042",
+    "name": "Áo sơ mi UrbanWear Basic 042",
+    "brand": "UrbanWear",
+    "category": "Áo sơ mi",
+    "gender": "Nam",
+    "price": 204000,
+    "oldPrice": 228000,
+    "stock": 69,
+    "rating": 4.5,
+    "sold": 1263,
+    "material": "kaki mềm",
+    "fit": "oversize",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Be",
+      "Xanh rêu",
+      "Trắng",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion42/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "mùa hè",
+      "unisex",
+      "cao cấp",
+      "công sở"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đổi trả linh hoạt",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo sơ mi UrbanWear Basic 042 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form form suông, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 225000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 196000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 212000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP043",
+    "name": "Áo khoác NavyFox Premium 043",
+    "brand": "NavyFox",
+    "category": "Áo khoác",
+    "gender": "Unisex",
+    "price": 679000,
+    "oldPrice": 889000,
+    "stock": 148,
+    "rating": 4.2,
+    "sold": 790,
+    "material": "denim co giãn",
+    "fit": "oversize",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "S",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Be",
+      "Hồng pastel",
+      "Xanh navy",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion43/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "dễ phối",
+      "unisex",
+      "cao cấp",
+      "mùa hè"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Áo khoác NavyFox Premium 043 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form slim fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 736000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 785000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 623000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP044",
+    "name": "Quần jeans UrbanWear Daily 044",
+    "brand": "UrbanWear",
+    "category": "Quần jeans",
+    "gender": "Unisex",
+    "price": 638000,
+    "oldPrice": 833000,
+    "stock": 131,
+    "rating": 4.3,
+    "sold": 1883,
+    "material": "kaki mềm",
+    "fit": "oversize",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "M",
+      "S",
+      "XXL",
+      "Freesize"
+    ],
+    "colors": [
+      "Nâu",
+      "Đen",
+      "Đỏ đô",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion44/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "unisex",
+      "mùa hè",
+      "công sở",
+      "mùa đông"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Quần jeans UrbanWear Daily 044 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form oversize, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 664000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 729000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 764000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP045",
+    "name": "Quần kaki StreetBee Smart 045",
+    "brand": "StreetBee",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 356000,
+    "oldPrice": 486000,
+    "stock": 96,
+    "rating": 4.7,
+    "sold": 1584,
+    "material": "linen thoáng mát",
+    "fit": "relaxed fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "S",
+      "Freesize",
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Nâu",
+      "Xanh navy",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion45/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "streetwear",
+      "công sở",
+      "dễ phối",
+      "basic"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đổi trả linh hoạt",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Quần kaki StreetBee Smart 045 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form slim fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 418000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 362000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 445000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP046",
+    "name": "Váy UrbanWear Young 046",
+    "brand": "UrbanWear",
+    "category": "Váy",
+    "gender": "Nam",
+    "price": 191000,
+    "oldPrice": 220000,
+    "stock": 23,
+    "rating": 4.3,
+    "sold": 1518,
+    "material": "denim co giãn",
+    "fit": "basic fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "S",
+      "XL",
+      "Freesize",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Trắng",
+      "Đen",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion46/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa hè",
+      "cao cấp",
+      "basic",
+      "streetwear"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn"
+    ],
+    "description": "Váy UrbanWear Young 046 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form slim fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 220000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 181000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 177000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP047",
+    "name": "Đầm ModaPlus Classic 047",
+    "brand": "ModaPlus",
+    "category": "Đầm",
+    "gender": "Nữ",
+    "price": 170000,
+    "oldPrice": 205000,
+    "stock": 94,
+    "rating": 4.8,
+    "sold": 2093,
+    "material": "linen thoáng mát",
+    "fit": "basic fit",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "Freesize",
+      "S",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Kem",
+      "Trắng",
+      "Xám",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion47/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "dễ phối",
+      "du lịch",
+      "mùa đông",
+      "basic"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn"
+    ],
+    "description": "Đầm ModaPlus Classic 047 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 205000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 161000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 204000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP048",
+    "name": "Set đồ StreetBee Basic 048",
+    "brand": "StreetBee",
+    "category": "Set đồ",
+    "gender": "Nữ",
+    "price": 204000,
+    "oldPrice": 228000,
+    "stock": 59,
+    "rating": 5.0,
+    "sold": 1452,
+    "material": "polyester chống nhăn",
+    "fit": "form suông",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "M",
+      "Freesize",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Trắng",
+      "Đỏ đô",
+      "Xanh rêu",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion48/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "streetwear",
+      "mùa đông",
+      "công sở",
+      "basic"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Set đồ StreetBee Basic 048 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form croptop, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 230000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 215000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 248000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP049",
+    "name": "Hoodie Cloudy Premium 049",
+    "brand": "Cloudy",
+    "category": "Hoodie",
+    "gender": "Nam",
+    "price": 459000,
+    "oldPrice": 545000,
+    "stock": 71,
+    "rating": 5.0,
+    "sold": 549,
+    "material": "cotton 100%",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XXL",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Kem",
+      "Xám",
+      "Be",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion49/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "mùa hè",
+      "du lịch",
+      "streetwear",
+      "công sở"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn"
+    ],
+    "description": "Hoodie Cloudy Premium 049 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form slim fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 551000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 486000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 482000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP050",
+    "name": "Phụ kiện HanoFit Daily 050",
+    "brand": "HanoFit",
+    "category": "Phụ kiện",
+    "gender": "Unisex",
+    "price": 308000,
+    "oldPrice": 423000,
+    "stock": 72,
+    "rating": 4.5,
+    "sold": 805,
+    "material": "polyester chống nhăn",
+    "fit": "croptop",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "Freesize",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Be",
+      "Kem",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion50/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "mùa hè",
+      "unisex",
+      "công sở",
+      "streetwear"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "giá tốt so với chất lượng",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Phụ kiện HanoFit Daily 050 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form oversize, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 360000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 334000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 320000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP051",
+    "name": "Áo thun NavyFox Smart 051",
+    "brand": "NavyFox",
+    "category": "Áo thun",
+    "gender": "Nam",
+    "price": 161000,
+    "oldPrice": 197000,
+    "stock": 87,
+    "rating": 4.6,
+    "sold": 610,
+    "material": "polyester chống nhăn",
+    "fit": "form suông",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Hồng pastel",
+      "Xanh navy",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion51/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "du lịch",
+      "công sở",
+      "mùa đông",
+      "basic"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "đổi trả linh hoạt",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Áo thun NavyFox Smart 051 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form croptop, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 190000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 178000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 177000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP052",
+    "name": "Áo sơ mi LumiStyle Young 052",
+    "brand": "LumiStyle",
+    "category": "Áo sơ mi",
+    "gender": "Nữ",
+    "price": 397000,
+    "oldPrice": 525000,
+    "stock": 120,
+    "rating": 4.6,
+    "sold": 110,
+    "material": "nỉ cotton",
+    "fit": "form suông",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "M",
+      "L",
+      "S",
+      "Freesize",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng",
+      "Đen",
+      "Nâu",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion52/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "công sở",
+      "du lịch",
+      "mùa hè",
+      "dễ phối"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Áo sơ mi LumiStyle Young 052 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form croptop, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 463000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 433000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 397000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP053",
+    "name": "Áo khoác UrbanWear Classic 053",
+    "brand": "UrbanWear",
+    "category": "Áo khoác",
+    "gender": "Unisex",
+    "price": 527000,
+    "oldPrice": 661000,
+    "stock": 59,
+    "rating": 4.5,
+    "sold": 531,
+    "material": "lụa satin",
+    "fit": "croptop",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Đen",
+      "Trắng",
+      "Hồng pastel",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion53/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "mùa hè",
+      "streetwear",
+      "cao cấp",
+      "công sở"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo khoác UrbanWear Classic 053 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 587000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 615000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 518000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP054",
+    "name": "Quần jeans NavyFox Basic 054",
+    "brand": "NavyFox",
+    "category": "Quần jeans",
+    "gender": "Nam",
+    "price": 317000,
+    "oldPrice": 365000,
+    "stock": 132,
+    "rating": 4.7,
+    "sold": 955,
+    "material": "kaki mềm",
+    "fit": "slim fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XL",
+      "Freesize",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Xám",
+      "Xanh navy",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion54/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "mùa hè",
+      "unisex",
+      "mùa đông",
+      "streetwear"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "vải mềm, ít nhăn",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Quần jeans NavyFox Basic 054 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form oversize, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 373000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 359000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 365000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP055",
+    "name": "Quần kaki Minimal VN Premium 055",
+    "brand": "Minimal VN",
+    "category": "Quần kaki",
+    "gender": "Nữ",
+    "price": 640000,
+    "oldPrice": 797000,
+    "stock": 51,
+    "rating": 4.9,
+    "sold": 1607,
+    "material": "cotton 100%",
+    "fit": "regular fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "M",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Đen",
+      "Kem",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion55/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa hè",
+      "dễ phối",
+      "cao cấp",
+      "basic"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Quần kaki Minimal VN Premium 055 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 737000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 614000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 805000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP056",
+    "name": "Váy Cloudy Daily 056",
+    "brand": "Cloudy",
+    "category": "Váy",
+    "gender": "Nam",
+    "price": 362000,
+    "oldPrice": 490000,
+    "stock": 35,
+    "rating": 4.7,
+    "sold": 2276,
+    "material": "polyester chống nhăn",
+    "fit": "oversize",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "M",
+      "XXL",
+      "S",
+      "L",
+      "Freesize"
+    ],
+    "colors": [
+      "Trắng",
+      "Kem",
+      "Đỏ đô",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion56/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "du lịch",
+      "công sở",
+      "dễ phối",
+      "unisex"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "vải mềm, ít nhăn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Váy Cloudy Daily 056 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form oversize, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 428000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 354000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 454000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP057",
+    "name": "Đầm NavyFox Smart 057",
+    "brand": "NavyFox",
+    "category": "Đầm",
+    "gender": "Nam",
+    "price": 659000,
+    "oldPrice": 766000,
+    "stock": 94,
+    "rating": 4.6,
+    "sold": 2334,
+    "material": "linen thoáng mát",
+    "fit": "croptop",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "Freesize"
+    ],
+    "colors": [
+      "Trắng",
+      "Be",
+      "Xám",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion57/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "basic",
+      "dễ phối",
+      "mùa đông",
+      "unisex"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Đầm NavyFox Smart 057 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form relaxed fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 756000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 735000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 635000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP058",
+    "name": "Set đồ UrbanWear Young 058",
+    "brand": "UrbanWear",
+    "category": "Set đồ",
+    "gender": "Nam",
+    "price": 884000,
+    "oldPrice": 1085000,
+    "stock": 99,
+    "rating": 4.6,
+    "sold": 2182,
+    "material": "denim co giãn",
+    "fit": "slim fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "XL",
+      "L",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Nâu",
+      "Xám",
+      "Xanh rêu",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion58/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "dễ phối",
+      "mùa hè",
+      "unisex",
+      "cao cấp"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Set đồ UrbanWear Young 058 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form slim fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 939000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 851000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 1028000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP059",
+    "name": "Hoodie Cloudy Classic 059",
+    "brand": "Cloudy",
+    "category": "Hoodie",
+    "gender": "Unisex",
+    "price": 455000,
+    "oldPrice": 524000,
+    "stock": 114,
+    "rating": 4.8,
+    "sold": 1693,
+    "material": "cotton 100%",
+    "fit": "relaxed fit",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "S",
+      "Freesize",
+      "M"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Đen",
+      "Hồng pastel",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion59/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "streetwear",
+      "du lịch",
+      "basic",
+      "mùa đông"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn"
+    ],
+    "description": "Hoodie Cloudy Classic 059 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form croptop, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 552000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 437000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 590000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP060",
+    "name": "Phụ kiện UrbanWear Basic 060",
+    "brand": "UrbanWear",
+    "category": "Phụ kiện",
+    "gender": "Nữ",
+    "price": 252000,
+    "oldPrice": 342000,
+    "stock": 91,
+    "rating": 4.6,
+    "sold": 1086,
+    "material": "polyester chống nhăn",
+    "fit": "oversize",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "L",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Đen",
+      "Xanh rêu",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion60/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "streetwear",
+      "unisex",
+      "du lịch"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Phụ kiện UrbanWear Basic 060 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form regular fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 291000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 259000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 309000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP061",
+    "name": "Áo thun ModaPlus Premium 061",
+    "brand": "ModaPlus",
+    "category": "Áo thun",
+    "gender": "Unisex",
+    "price": 755000,
+    "oldPrice": 1040000,
+    "stock": 152,
+    "rating": 4.3,
+    "sold": 1964,
+    "material": "denim co giãn",
+    "fit": "oversize",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng",
+      "Đỏ đô",
+      "Xanh navy",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion61/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "công sở",
+      "cao cấp",
+      "basic",
+      "dễ phối"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "màu sắc trẻ trung",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo thun ModaPlus Premium 061 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form croptop, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 874000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 737000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 912000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP062",
+    "name": "Áo sơ mi HanoFit Daily 062",
+    "brand": "HanoFit",
+    "category": "Áo sơ mi",
+    "gender": "Nam",
+    "price": 523000,
+    "oldPrice": 691000,
+    "stock": 33,
+    "rating": 4.4,
+    "sold": 2313,
+    "material": "linen thoáng mát",
+    "fit": "relaxed fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "S",
+      "Freesize",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Đen",
+      "Trắng",
+      "Hồng pastel",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion62/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "công sở",
+      "cao cấp",
+      "mùa hè",
+      "basic"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "đổi trả linh hoạt",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo sơ mi HanoFit Daily 062 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form relaxed fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 611000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 599000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 623000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP063",
+    "name": "Áo khoác HanoFit Smart 063",
+    "brand": "HanoFit",
+    "category": "Áo khoác",
+    "gender": "Nam",
+    "price": 268000,
+    "oldPrice": 325000,
+    "stock": 110,
+    "rating": 4.8,
+    "sold": 1884,
+    "material": "polyester chống nhăn",
+    "fit": "basic fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "L",
+      "Freesize",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Xám",
+      "Đen",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion63/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "mùa hè",
+      "unisex",
+      "streetwear",
+      "du lịch"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "giá tốt so với chất lượng",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Áo khoác HanoFit Smart 063 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 309000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 292000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 286000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP064",
+    "name": "Quần jeans Minimal VN Young 064",
+    "brand": "Minimal VN",
+    "category": "Quần jeans",
+    "gender": "Unisex",
+    "price": 150000,
+    "oldPrice": 180000,
+    "stock": 22,
+    "rating": 4.4,
+    "sold": 606,
+    "material": "kaki mềm",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XL",
+      "L",
+      "S",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Xanh navy",
+      "Kem",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion64/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "unisex",
+      "du lịch",
+      "mùa đông"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "dễ phối với nhiều outfit",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Quần jeans Minimal VN Young 064 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 163000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 146000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 190000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP065",
+    "name": "Quần kaki NavyFox Classic 065",
+    "brand": "NavyFox",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 238000,
+    "oldPrice": 299000,
+    "stock": 145,
+    "rating": 4.9,
+    "sold": 2167,
+    "material": "lụa satin",
+    "fit": "relaxed fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "M",
+      "Freesize",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Be",
+      "Nâu",
+      "Xám",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion65/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "mùa đông",
+      "unisex",
+      "cao cấp",
+      "mùa hè"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Quần kaki NavyFox Classic 065 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form relaxed fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 262000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 227000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 252000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP066",
+    "name": "Váy LumiStyle Basic 066",
+    "brand": "LumiStyle",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 796000,
+    "oldPrice": 987000,
+    "stock": 83,
+    "rating": 4.6,
+    "sold": 114,
+    "material": "cotton compact",
+    "fit": "regular fit",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "Freesize",
+      "L"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Trắng",
+      "Xanh rêu",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion66/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "công sở",
+      "mùa hè",
+      "unisex",
+      "basic"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Váy LumiStyle Basic 066 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form regular fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 839000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 808000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 726000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP067",
+    "name": "Đầm UrbanWear Premium 067",
+    "brand": "UrbanWear",
+    "category": "Đầm",
+    "gender": "Nam",
+    "price": 719000,
+    "oldPrice": 874000,
+    "stock": 28,
+    "rating": 4.9,
+    "sold": 1657,
+    "material": "cotton compact",
+    "fit": "croptop",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "L",
+      "XXL",
+      "M",
+      "Freesize"
+    ],
+    "colors": [
+      "Trắng",
+      "Kem",
+      "Hồng pastel",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion67/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "công sở",
+      "mùa đông",
+      "streetwear",
+      "cao cấp"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Đầm UrbanWear Premium 067 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form slim fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 839000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 759000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 890000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP068",
+    "name": "Set đồ UrbanWear Daily 068",
+    "brand": "UrbanWear",
+    "category": "Set đồ",
+    "gender": "Nam",
+    "price": 413000,
+    "oldPrice": 547000,
+    "stock": 26,
+    "rating": 4.3,
+    "sold": 1331,
+    "material": "cotton 100%",
+    "fit": "oversize",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "L",
+      "XXL",
+      "XL",
+      "Freesize",
+      "S"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Xám",
+      "Kem",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion68/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "streetwear",
+      "mùa đông",
+      "du lịch",
+      "unisex"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "phù hợp nhiều dáng người",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Set đồ UrbanWear Daily 068 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form croptop, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 482000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 452000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 534000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP069",
+    "name": "Hoodie NavyFox Smart 069",
+    "brand": "NavyFox",
+    "category": "Hoodie",
+    "gender": "Unisex",
+    "price": 348000,
+    "oldPrice": 462000,
+    "stock": 107,
+    "rating": 4.9,
+    "sold": 602,
+    "material": "linen thoáng mát",
+    "fit": "regular fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "Freesize",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Xám",
+      "Đỏ đô",
+      "Xanh navy",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion69/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa đông",
+      "công sở",
+      "cao cấp",
+      "streetwear"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn"
+    ],
+    "description": "Hoodie NavyFox Smart 069 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form form suông, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 371000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 396000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 324000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP070",
+    "name": "Phụ kiện NavyFox Young 070",
+    "brand": "NavyFox",
+    "category": "Phụ kiện",
+    "gender": "Nam",
+    "price": 421000,
+    "oldPrice": 517000,
+    "stock": 87,
+    "rating": 4.5,
+    "sold": 717,
+    "material": "polyester chống nhăn",
+    "fit": "relaxed fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "XL",
+      "Freesize",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Kem",
+      "Đen",
+      "Xanh navy",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion70/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "mùa hè",
+      "streetwear",
+      "công sở",
+      "cao cấp"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "phù hợp nhiều dáng người",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Phụ kiện NavyFox Young 070 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form oversize, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 456000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 398000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 475000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP071",
+    "name": "Áo thun ModaPlus Classic 071",
+    "brand": "ModaPlus",
+    "category": "Áo thun",
+    "gender": "Nữ",
+    "price": 574000,
+    "oldPrice": 776000,
+    "stock": 16,
+    "rating": 4.6,
+    "sold": 2109,
+    "material": "lụa satin",
+    "fit": "form suông",
+    "occasion": "đi làm, gặp khách hàng",
+    "sizes": [
+      "S",
+      "XXL",
+      "L",
+      "Freesize"
+    ],
+    "colors": [
+      "Xám",
+      "Hồng pastel",
+      "Đen",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion71/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "mùa hè",
+      "công sở",
+      "streetwear",
+      "unisex"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Áo thun ModaPlus Classic 071 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form form suông, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 602000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 639000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 583000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP072",
+    "name": "Áo sơ mi LumiStyle Basic 072",
+    "brand": "LumiStyle",
+    "category": "Áo sơ mi",
+    "gender": "Unisex",
+    "price": 897000,
+    "oldPrice": 1120000,
+    "stock": 61,
+    "rating": 4.7,
+    "sold": 858,
+    "material": "cotton 100%",
+    "fit": "regular fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "XL",
+      "S",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Xám",
+      "Nâu",
+      "Xanh rêu",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion72/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "unisex",
+      "cao cấp",
+      "streetwear",
+      "mùa đông"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Áo sơ mi LumiStyle Basic 072 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form regular fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 977000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 887000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 1027000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP073",
+    "name": "Áo khoác Cloudy Premium 073",
+    "brand": "Cloudy",
+    "category": "Áo khoác",
+    "gender": "Unisex",
+    "price": 758000,
+    "oldPrice": 1018000,
+    "stock": 30,
+    "rating": 4.3,
+    "sold": 1032,
+    "material": "lụa satin",
+    "fit": "basic fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "S",
+      "L",
+      "Freesize"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Đỏ đô",
+      "Đen",
+      "Nâu"
+    ],
+    "image": "https://picsum.photos/seed/fashion73/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "công sở",
+      "basic",
+      "streetwear",
+      "cao cấp"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Áo khoác Cloudy Premium 073 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 836000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 882000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 975000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP074",
+    "name": "Quần jeans Minimal VN Daily 074",
+    "brand": "Minimal VN",
+    "category": "Quần jeans",
+    "gender": "Unisex",
+    "price": 179000,
+    "oldPrice": 201000,
+    "stock": 159,
+    "rating": 4.6,
+    "sold": 1006,
+    "material": "linen thoáng mát",
+    "fit": "regular fit",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "Freesize",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Nâu",
+      "Trắng",
+      "Xanh rêu",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion74/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "dễ phối",
+      "mùa hè",
+      "basic",
+      "unisex"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần jeans Minimal VN Daily 074 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form basic fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 216000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 199000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 179000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP075",
+    "name": "Quần kaki HanoFit Smart 075",
+    "brand": "HanoFit",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 735000,
+    "oldPrice": 911000,
+    "stock": 111,
+    "rating": 4.8,
+    "sold": 2182,
+    "material": "cotton 100%",
+    "fit": "relaxed fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "L",
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Xám",
+      "Đỏ đô",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion75/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "mùa hè",
+      "streetwear"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "dễ phối với nhiều outfit",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần kaki HanoFit Smart 075 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form croptop, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 816000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 858000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 666000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP076",
+    "name": "Váy UrbanWear Young 076",
+    "brand": "UrbanWear",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 260000,
+    "oldPrice": 327000,
+    "stock": 17,
+    "rating": 4.4,
+    "sold": 1753,
+    "material": "nỉ cotton",
+    "fit": "basic fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "S",
+      "Freesize",
+      "XXL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Nâu",
+      "Đen",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion76/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "mùa hè",
+      "streetwear",
+      "dễ phối",
+      "basic"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Váy UrbanWear Young 076 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 273000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 271000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 286000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP077",
+    "name": "Đầm Cloudy Classic 077",
+    "brand": "Cloudy",
+    "category": "Đầm",
+    "gender": "Unisex",
+    "price": 319000,
+    "oldPrice": 367000,
+    "stock": 80,
+    "rating": 4.3,
+    "sold": 2216,
+    "material": "kaki mềm",
+    "fit": "relaxed fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "Freesize"
+    ],
+    "colors": [
+      "Nâu",
+      "Xanh navy",
+      "Trắng",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion77/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "mùa hè",
+      "cao cấp",
+      "dễ phối",
+      "mùa đông"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đường may chắc chắn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Đầm Cloudy Classic 077 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form form suông, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 365000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 373000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 352000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP078",
+    "name": "Set đồ Cloudy Basic 078",
+    "brand": "Cloudy",
+    "category": "Set đồ",
+    "gender": "Nữ",
+    "price": 710000,
+    "oldPrice": 851000,
+    "stock": 97,
+    "rating": 4.4,
+    "sold": 2128,
+    "material": "nỉ cotton",
+    "fit": "form suông",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "L",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Xám",
+      "Kem",
+      "Đỏ đô",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion78/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "mùa hè",
+      "du lịch",
+      "công sở",
+      "basic"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn"
+    ],
+    "description": "Set đồ Cloudy Basic 078 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form form suông, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 799000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 806000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 647000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP079",
+    "name": "Hoodie NavyFox Premium 079",
+    "brand": "NavyFox",
+    "category": "Hoodie",
+    "gender": "Unisex",
+    "price": 212000,
+    "oldPrice": 265000,
+    "stock": 145,
+    "rating": 4.4,
+    "sold": 662,
+    "material": "nỉ cotton",
+    "fit": "slim fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "M",
+      "Freesize",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Trắng",
+      "Xanh rêu",
+      "Nâu",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion79/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "unisex",
+      "streetwear",
+      "basic",
+      "du lịch"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "màu sắc trẻ trung",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Hoodie NavyFox Premium 079 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form relaxed fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 252000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 217000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 255000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP080",
+    "name": "Phụ kiện HanoFit Daily 080",
+    "brand": "HanoFit",
+    "category": "Phụ kiện",
+    "gender": "Nữ",
+    "price": 435000,
+    "oldPrice": 585000,
+    "stock": 129,
+    "rating": 4.4,
+    "sold": 1474,
+    "material": "polyester chống nhăn",
+    "fit": "slim fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "XXL",
+      "Freesize",
+      "XL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Đen",
+      "Xanh rêu",
+      "Hồng pastel",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion80/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "công sở",
+      "mùa hè",
+      "unisex",
+      "streetwear"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Phụ kiện HanoFit Daily 080 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form regular fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 499000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 448000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 470000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP081",
+    "name": "Áo thun Cloudy Smart 081",
+    "brand": "Cloudy",
+    "category": "Áo thun",
+    "gender": "Unisex",
+    "price": 397000,
+    "oldPrice": 543000,
+    "stock": 14,
+    "rating": 4.2,
+    "sold": 1080,
+    "material": "linen thoáng mát",
+    "fit": "slim fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XXL",
+      "Freesize",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Kem",
+      "Hồng pastel",
+      "Đỏ đô",
+      "Xanh navy"
+    ],
+    "image": "https://picsum.photos/seed/fashion81/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "du lịch",
+      "dễ phối"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn",
+      "màu sắc trẻ trung"
+    ],
+    "description": "Áo thun Cloudy Smart 081 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form regular fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 427000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 413000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 501000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP082",
+    "name": "Áo sơ mi Cloudy Young 082",
+    "brand": "Cloudy",
+    "category": "Áo sơ mi",
+    "gender": "Unisex",
+    "price": 559000,
+    "oldPrice": 720000,
+    "stock": 119,
+    "rating": 4.6,
+    "sold": 1832,
+    "material": "lụa satin",
+    "fit": "croptop",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Trắng",
+      "Nâu",
+      "Be",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion82/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "mùa đông",
+      "unisex",
+      "dễ phối",
+      "streetwear"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Áo sơ mi Cloudy Young 082 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form form suông, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 674000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 546000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 545000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP083",
+    "name": "Áo khoác ModaPlus Classic 083",
+    "brand": "ModaPlus",
+    "category": "Áo khoác",
+    "gender": "Nam",
+    "price": 210000,
+    "oldPrice": 269000,
+    "stock": 22,
+    "rating": 4.8,
+    "sold": 73,
+    "material": "cotton 100%",
+    "fit": "slim fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "S",
+      "L",
+      "M",
+      "Freesize"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Đen",
+      "Kem",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion83/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "cao cấp",
+      "mùa hè",
+      "unisex",
+      "mùa đông"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo khoác ModaPlus Classic 083 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form relaxed fit, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 241000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 215000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 272000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP084",
+    "name": "Quần jeans LumiStyle Basic 084",
+    "brand": "LumiStyle",
+    "category": "Quần jeans",
+    "gender": "Nam",
+    "price": 309000,
+    "oldPrice": 387000,
+    "stock": 145,
+    "rating": 4.6,
+    "sold": 1944,
+    "material": "nỉ cotton",
+    "fit": "basic fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "S",
+      "XXL",
+      "L",
+      "Freesize",
+      "XL"
+    ],
+    "colors": [
+      "Xám",
+      "Nâu",
+      "Be",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion84/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "streetwear",
+      "dễ phối",
+      "công sở",
+      "cao cấp"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "màu sắc trẻ trung",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Quần jeans LumiStyle Basic 084 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton 100%, form regular fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 349000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 292000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 287000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP085",
+    "name": "Quần kaki ModaPlus Premium 085",
+    "brand": "ModaPlus",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 193000,
+    "oldPrice": 238000,
+    "stock": 56,
+    "rating": 4.5,
+    "sold": 1895,
+    "material": "polyester chống nhăn",
+    "fit": "relaxed fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XL",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Hồng pastel",
+      "Xanh navy",
+      "Đỏ đô",
+      "Be"
+    ],
+    "image": "https://picsum.photos/seed/fashion85/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "cao cấp",
+      "basic",
+      "unisex",
+      "streetwear"
+    ],
+    "highlights": [
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Quần kaki ModaPlus Premium 085 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form relaxed fit, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 222000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 192000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 177000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP086",
+    "name": "Váy UrbanWear Daily 086",
+    "brand": "UrbanWear",
+    "category": "Váy",
+    "gender": "Nữ",
+    "price": 554000,
+    "oldPrice": 701000,
+    "stock": 115,
+    "rating": 4.7,
+    "sold": 534,
+    "material": "nỉ cotton",
+    "fit": "basic fit",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "M",
+      "XL",
+      "Freesize",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Xám",
+      "Xanh navy",
+      "Hồng pastel",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion86/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "unisex",
+      "streetwear"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Váy UrbanWear Daily 086 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form oversize, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 587000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 591000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 584000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP087",
+    "name": "Đầm HanoFit Smart 087",
+    "brand": "HanoFit",
+    "category": "Đầm",
+    "gender": "Unisex",
+    "price": 602000,
+    "oldPrice": 747000,
+    "stock": 67,
+    "rating": 4.8,
+    "sold": 1573,
+    "material": "denim co giãn",
+    "fit": "slim fit",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "M",
+      "Freesize",
+      "XL",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Nâu",
+      "Xanh rêu",
+      "Xám",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion87/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "unisex",
+      "du lịch",
+      "streetwear",
+      "basic"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "màu sắc trẻ trung",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Đầm HanoFit Smart 087 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form croptop, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 712000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 600000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 630000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP088",
+    "name": "Set đồ UrbanWear Young 088",
+    "brand": "UrbanWear",
+    "category": "Set đồ",
+    "gender": "Unisex",
+    "price": 884000,
+    "oldPrice": 1120000,
+    "stock": 57,
+    "rating": 4.8,
+    "sold": 978,
+    "material": "lụa satin",
+    "fit": "oversize",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Kem",
+      "Nâu",
+      "Xanh navy",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion88/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "streetwear",
+      "du lịch",
+      "công sở",
+      "dễ phối"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Set đồ UrbanWear Young 088 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form slim fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 968000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 913000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 826000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP089",
+    "name": "Hoodie NavyFox Classic 089",
+    "brand": "NavyFox",
+    "category": "Hoodie",
+    "gender": "Unisex",
+    "price": 792000,
+    "oldPrice": 1064000,
+    "stock": 101,
+    "rating": 4.9,
+    "sold": 133,
+    "material": "linen thoáng mát",
+    "fit": "oversize",
+    "occasion": "dự tiệc nhẹ",
+    "sizes": [
+      "Freesize",
+      "S",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Trắng",
+      "Nâu",
+      "Xanh navy",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion89/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "unisex",
+      "basic",
+      "mùa hè",
+      "streetwear"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "đường may chắc chắn",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Hoodie NavyFox Classic 089 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu kaki mềm, form relaxed fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 842000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 797000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 722000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP090",
+    "name": "Phụ kiện UrbanWear Basic 090",
+    "brand": "UrbanWear",
+    "category": "Phụ kiện",
+    "gender": "Unisex",
+    "price": 467000,
+    "oldPrice": 599000,
+    "stock": 139,
+    "rating": 4.8,
+    "sold": 1073,
+    "material": "nỉ cotton",
+    "fit": "croptop",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "L",
+      "S",
+      "XXL",
+      "Freesize",
+      "M"
+    ],
+    "colors": [
+      "Đen",
+      "Đỏ đô",
+      "Xanh navy",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion90/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "streetwear",
+      "công sở"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Phụ kiện UrbanWear Basic 090 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu nỉ cotton, form croptop, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 564000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 502000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 462000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP091",
+    "name": "Áo thun StreetBee Premium 091",
+    "brand": "StreetBee",
+    "category": "Áo thun",
+    "gender": "Nữ",
+    "price": 688000,
+    "oldPrice": 786000,
+    "stock": 140,
+    "rating": 4.8,
+    "sold": 1884,
+    "material": "cotton 100%",
+    "fit": "croptop",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Xanh navy",
+      "Đen",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion91/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "mùa hè",
+      "công sở",
+      "dễ phối",
+      "streetwear"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo thun StreetBee Premium 091 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu polyester chống nhăn, form oversize, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 832000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 716000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 875000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP092",
+    "name": "Áo sơ mi HanoFit Daily 092",
+    "brand": "HanoFit",
+    "category": "Áo sơ mi",
+    "gender": "Nữ",
+    "price": 504000,
+    "oldPrice": 618000,
+    "stock": 136,
+    "rating": 4.7,
+    "sold": 1004,
+    "material": "denim co giãn",
+    "fit": "regular fit",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "XL",
+      "M",
+      "L",
+      "Freesize",
+      "XXL"
+    ],
+    "colors": [
+      "Be",
+      "Đỏ đô",
+      "Xanh navy",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion92/900/1100",
+    "promotion": "Giảm 10% khi mua từ 2 sản phẩm",
+    "tags": [
+      "dễ phối",
+      "unisex",
+      "cao cấp",
+      "streetwear"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "đổi trả linh hoạt",
+      "đường may chắc chắn"
+    ],
+    "description": "Áo sơ mi HanoFit Daily 092 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu linen thoáng mát, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 542000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 511000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 481000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP093",
+    "name": "Áo khoác StreetBee Smart 093",
+    "brand": "StreetBee",
+    "category": "Áo khoác",
+    "gender": "Nam",
+    "price": 855000,
+    "oldPrice": 1021000,
+    "stock": 83,
+    "rating": 4.4,
+    "sold": 482,
+    "material": "polyester chống nhăn",
+    "fit": "relaxed fit",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô",
+      "Xám",
+      "Nâu",
+      "Trắng"
+    ],
+    "image": "https://picsum.photos/seed/fashion93/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "streetwear",
+      "basic",
+      "cao cấp",
+      "du lịch"
+    ],
+    "highlights": [
+      "đổi trả linh hoạt",
+      "phù hợp nhiều dáng người",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Áo khoác StreetBee Smart 093 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu lụa satin, form croptop, thích hợp cho mùa hè năng động.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 944000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 846000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 790000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP094",
+    "name": "Quần jeans Minimal VN Young 094",
+    "brand": "Minimal VN",
+    "category": "Quần jeans",
+    "gender": "Nam",
+    "price": 809000,
+    "oldPrice": 1008000,
+    "stock": 14,
+    "rating": 4.5,
+    "sold": 402,
+    "material": "polyester chống nhăn",
+    "fit": "croptop",
+    "occasion": "mùa hè năng động",
+    "sizes": [
+      "Freesize",
+      "L",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Đen",
+      "Đỏ đô",
+      "Hồng pastel",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion94/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "mùa hè",
+      "mùa đông",
+      "streetwear",
+      "cao cấp"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "giá tốt so với chất lượng",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần jeans Minimal VN Young 094 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form basic fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 904000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 797000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 903000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP095",
+    "name": "Quần kaki Minimal VN Classic 095",
+    "brand": "Minimal VN",
+    "category": "Quần kaki",
+    "gender": "Unisex",
+    "price": 780000,
+    "oldPrice": 939000,
+    "stock": 106,
+    "rating": 4.3,
+    "sold": 1542,
+    "material": "polyester chống nhăn",
+    "fit": "oversize",
+    "occasion": "đi học, đi chơi hằng ngày",
+    "sizes": [
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Đen",
+      "Xanh navy",
+      "Xanh rêu",
+      "Kem"
+    ],
+    "image": "https://picsum.photos/seed/fashion95/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "công sở",
+      "mùa hè",
+      "cao cấp",
+      "unisex"
+    ],
+    "highlights": [
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn",
+      "đường may chắc chắn"
+    ],
+    "description": "Quần kaki Minimal VN Classic 095 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form oversize, thích hợp cho đi làm, gặp khách hàng.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 837000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 887000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 801000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP096",
+    "name": "Váy NavyFox Basic 096",
+    "brand": "NavyFox",
+    "category": "Váy",
+    "gender": "Unisex",
+    "price": 560000,
+    "oldPrice": 640000,
+    "stock": 107,
+    "rating": 4.2,
+    "sold": 2124,
+    "material": "nỉ cotton",
+    "fit": "oversize",
+    "occasion": "du lịch, dạo phố",
+    "sizes": [
+      "Freesize",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Xám",
+      "Trắng",
+      "Xanh rêu",
+      "Đen"
+    ],
+    "image": "https://picsum.photos/seed/fashion96/900/1100",
+    "promotion": "Freeship cho đơn từ 800K",
+    "tags": [
+      "công sở",
+      "unisex",
+      "dễ phối",
+      "basic"
+    ],
+    "highlights": [
+      "phù hợp nhiều dáng người",
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit"
+    ],
+    "description": "Váy NavyFox Basic 096 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form relaxed fit, thích hợp cho đi học, đi chơi hằng ngày.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 586000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 585000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 546000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP097",
+    "name": "Đầm Cloudy Premium 097",
+    "brand": "Cloudy",
+    "category": "Đầm",
+    "gender": "Unisex",
+    "price": 620000,
+    "oldPrice": 763000,
+    "stock": 114,
+    "rating": 5.0,
+    "sold": 363,
+    "material": "cotton 100%",
+    "fit": "croptop",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "L",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Be",
+      "Nâu",
+      "Hồng pastel"
+    ],
+    "image": "https://picsum.photos/seed/fashion97/900/1100",
+    "promotion": "Tặng voucher 50K cho lần mua sau",
+    "tags": [
+      "dễ phối",
+      "basic",
+      "unisex",
+      "streetwear"
+    ],
+    "highlights": [
+      "đường may chắc chắn",
+      "giá tốt so với chất lượng",
+      "phù hợp nhiều dáng người"
+    ],
+    "description": "Đầm Cloudy Premium 097 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form oversize, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 704000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 675000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 596000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP098",
+    "name": "Set đồ Cloudy Daily 098",
+    "brand": "Cloudy",
+    "category": "Set đồ",
+    "gender": "Unisex",
+    "price": 743000,
+    "oldPrice": 1014000,
+    "stock": 78,
+    "rating": 4.3,
+    "sold": 769,
+    "material": "denim co giãn",
+    "fit": "form suông",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Kem",
+      "Nâu",
+      "Xám"
+    ],
+    "image": "https://picsum.photos/seed/fashion98/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "du lịch",
+      "cao cấp",
+      "streetwear",
+      "mùa hè"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "giá tốt so với chất lượng",
+      "vải mềm, ít nhăn"
+    ],
+    "description": "Set đồ Cloudy Daily 098 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form basic fit, thích hợp cho dự tiệc nhẹ.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 820000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 741000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 799000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP099",
+    "name": "Hoodie LumiStyle Smart 099",
+    "brand": "LumiStyle",
+    "category": "Hoodie",
+    "gender": "Nữ",
+    "price": 286000,
+    "oldPrice": 384000,
+    "stock": 41,
+    "rating": 4.7,
+    "sold": 2140,
+    "material": "cotton compact",
+    "fit": "relaxed fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "XXL",
+      "M",
+      "Freesize",
+      "L"
+    ],
+    "colors": [
+      "Xanh rêu",
+      "Trắng",
+      "Be",
+      "Đỏ đô"
+    ],
+    "image": "https://picsum.photos/seed/fashion99/900/1100",
+    "promotion": "Combo mua 3 giảm thêm 100K",
+    "tags": [
+      "basic",
+      "unisex",
+      "streetwear",
+      "dễ phối"
+    ],
+    "highlights": [
+      "dễ phối với nhiều outfit",
+      "vải mềm, ít nhăn",
+      "giá tốt so với chất lượng"
+    ],
+    "description": "Hoodie LumiStyle Smart 099 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu denim co giãn, form relaxed fit, thích hợp cho du lịch, dạo phố.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 325000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 317000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 343000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  },
+  {
+    "id": "SP100",
+    "name": "Phụ kiện LumiStyle Young 100",
+    "brand": "LumiStyle",
+    "category": "Phụ kiện",
+    "gender": "Unisex",
+    "price": 287000,
+    "oldPrice": 353000,
+    "stock": 156,
+    "rating": 4.3,
+    "sold": 1482,
+    "material": "kaki mềm",
+    "fit": "slim fit",
+    "occasion": "mùa đông ấm áp",
+    "sizes": [
+      "Freesize",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh navy",
+      "Xám",
+      "Kem",
+      "Xanh rêu"
+    ],
+    "image": "https://picsum.photos/seed/fashion100/900/1100",
+    "promotion": "Đổi size miễn phí trong 7 ngày",
+    "tags": [
+      "basic",
+      "mùa đông",
+      "dễ phối",
+      "công sở"
+    ],
+    "highlights": [
+      "màu sắc trẻ trung",
+      "dễ phối với nhiều outfit",
+      "đổi trả linh hoạt"
+    ],
+    "description": "Phụ kiện LumiStyle Young 100 được thiết kế theo phong cách hiện đại, dễ mặc và phù hợp với khách hàng trẻ. Sản phẩm dùng chất liệu cotton compact, form regular fit, thích hợp cho mùa đông ấm áp.",
+    "care": "Giặt nhẹ với nước lạnh, không dùng thuốc tẩy, phơi nơi thoáng mát.",
+    "competitors": [
+      {
+        "competitor": "Shop đối thủ A",
+        "price": 344000,
+        "note": "Giá cao hơn, ít màu hơn"
+      },
+      {
+        "competitor": "Shop đối thủ B",
+        "price": 312000,
+        "note": "Có giá cạnh tranh nhưng bảo hành đổi trả ngắn hơn"
+      },
+      {
+        "competitor": "Sàn TMĐT phổ biến",
+        "price": 358000,
+        "note": "Nhiều lựa chọn nhưng khó kiểm soát form/size"
+      }
+    ]
+  }
+]
